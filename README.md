@@ -4,7 +4,7 @@
 
 ### 🧐 Some Things About Me
 - 🌱 I’m currently learning DSA
-- Ask me about Web development
+- 💬 Ask me about Web development
 - 🏆 2023 Goal: Contribute to first Open Source Projects.
 - 📫 How to reach me nirajkumarkhator@gmail.com
 <!--
